@@ -1,5 +1,8 @@
+K-means Clustering
 
-
+- [K-means Clustering Simple Explanation](#k-means-clustering-simple-explanation)
+  - [How does the robot know the right answers to calculate the distortions?](#how-does-the-robot-know-the-right-answers-to-calculate-the-distortions)
+  - [How does it calculate the new spot?](#how-does-it-calculate-the-new-spot)
 
 ### K-means Clustering Simple Explanation
 
