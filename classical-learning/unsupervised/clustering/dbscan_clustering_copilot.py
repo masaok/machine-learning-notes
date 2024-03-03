@@ -24,11 +24,11 @@ for sentence in sentences:
         outputs = model(**inputs)
     embeddings.append(outputs.last_hidden_state[:, 0, :].numpy())
 
-# # Reshape embeddings to 2D
-# embeddings_2d = np.array(embeddings).reshape(len(embeddings), -1)
+# Reshape embeddings to 2D
+embeddings_2d = np.array(embeddings).reshape(len(embeddings), -1)
 
 # Perform clustering with DBSCAN
-clustering = DBSCAN(eps=3, min_samples=2).fit(embeddings)
+clustering = DBSCAN(eps=3, min_samples=2).fit(embeddings_2d)
 
 # Print cluster labels for each sentence
 print(clustering.labels_)
