@@ -12,12 +12,26 @@
 #### Output
 
 ```
+Boolean matrix:
+array([[False, False,  True, False,  True,  True,  True, False,  True],
+       [False, False,  True, False, False,  True,  True, False,  True],
+       [ True, False,  True, False,  True, False, False, False, False],
+       [False,  True, False, False,  True, False, False,  True,  True],
+       [False,  True,  True,  True, False, False,  True, False, False]])
+DataFrame:
+   Apple   Corn   Eggs  Ice cream   Milk  Nutmeg  Onion  Unicorn  Yogurt
+0  False  False   True      False   True    True   True    False    True
+1  False  False   True      False  False    True   True    False    True
+2   True  False   True      False   True   False  False    False   False
+3  False   True  False      False   True   False  False     True    True
+4  False   True   True       True  False   False   True    False   False
+Frequent itemsets:
    support       itemsets
 0      0.8         (Eggs)
 1      0.6         (Milk)
 2      0.6        (Onion)
 3      0.6       (Yogurt)
-4      0.6  (Eggs, Onion)
+4      0.6  (Onion, Eggs)
 ```
 
 ### What does "a priori" mean literally?
