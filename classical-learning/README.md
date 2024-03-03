@@ -29,4 +29,4 @@ In the same way, in **supervised learning**, a computer program is learning to m
 
 Imagine you have a big box of Lego blocks of different shapes, sizes, and colors. No one tells you what to do with them. So, you start sorting them out yourself. Maybe you group them by color, or by size, or by shape. You're not sure if you're doing it "right" because no one is there to correct you, but you're learning to find patterns and make sense of the blocks on your own.
 
-That's what **unsupervised learning** is like in machine learning. The computer is given a lot of data but no instructions on what to do with it. It has to figure out how to organize the data on its own, maybe by finding groups or patterns in the data. It's like sorting Lego blocks without any guidance. [:computer:](unsupervised-learning)
+That's what **unsupervised learning** is like in machine learning. The computer is given a lot of data but no instructions on what to do with it. It has to figure out how to organize the data on its own, maybe by finding groups or patterns in the data. It's like sorting Lego blocks without any guidance. [:computer:](unsupervised)
