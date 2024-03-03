@@ -77,6 +77,6 @@ So, the main difference is that **neural networks** are simpler and can learn to
 
 ## Credit
 
-Github Copilot Chat for all explanations.
+All explanations written by [Github Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat).
 
-https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat
+List of [GitHub Markdown emojis](https://gist.github.com/rxaviers/7360908j).
