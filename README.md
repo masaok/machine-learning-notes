@@ -1,7 +1,7 @@
 Machine Learning examples
 
 - [Quickstart](#quickstart)
-- [VSCode Notes](#vscode-notes)
+  - [VSCode Notes](#vscode-notes)
 - [Machine Learning Overview](#machine-learning-overview)
   - [Classical vs. Reinforcement Learning :bike:](#classical-vs-reinforcement-learning-bike)
   - [Ensemble Methods :family:](#ensemble-methods-family)
@@ -23,7 +23,7 @@ poetry install --no-root   # Install packages without dependencies
 
 https://python-poetry.org/docs/cli/
 
-## VSCode Notes
+### VSCode Notes
 
 `CTRL + SHIFT + P` > `Python: Select Interpreter`
 
