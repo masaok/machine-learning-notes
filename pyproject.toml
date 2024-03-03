@@ -12,6 +12,8 @@ transformers = "^4.38.2"
 scikit-learn = "^1.4.1.post1"
 kneed = "^0.8.5"
 matplotlib = "^3.8.3"
+mlxtend = "^0.23.1"
+pandas = "^2.2.1"
 
 
 [build-system]

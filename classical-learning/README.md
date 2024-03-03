@@ -1,6 +1,7 @@
 Simple explanations from Github Copilot Chat.
 
 - [Supervised vs. Unsupervised Learning](#supervised-vs-unsupervised-learning)
+- [More Examples](#more-examples)
   - [Supervised Learning](#supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
 
@@ -13,6 +14,8 @@ In supervised learning, your mom or dad is there to guide you. They show you whi
 Unsupervised learning is like if you were left to sort your toys on your own. No one tells you what the categories are. You might decide to sort them by color, by size, or by how much you like them. You're not sure if you're doing it "right" because no one is there to correct you, but you're learning to find patterns and make sense of your toys on your own.
 
 So, in simple terms, supervised learning is when the computer is taught with correct answers (like your parents teaching you how to sort toys), and unsupervised learning is when the computer has to figure out the patterns on its own (like you sorting toys without any guidance).
+
+### More Examples
 
 #### Supervised Learning
 
