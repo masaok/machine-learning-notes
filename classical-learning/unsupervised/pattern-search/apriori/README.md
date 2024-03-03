@@ -2,6 +2,8 @@
   - [Output](#output)
 - [What does "a priori" mean literally?](#what-does-a-priori-mean-literally)
 - [Example](#example)
+- [The Code](#the-code)
+  - [What is `min_support`?](#what-is-min_support)
 
 ### Quickstart
 
@@ -47,3 +49,19 @@ The Apriori algorithm is like someone watching you play and noticing that if a t
 But they're smart about how they find these rules. They don't waste time looking at combinations that are unlikely to happen. For example, if they hardly ever see a red block and a green block together, they won't bother checking if red, green and blue blocks often appear together. This is the "Apriori" part - it's a principle that says if a block doesn't appear often in a tower, then that block with any other block won't appear often either.
 
 So, in simple terms, the Apriori algorithm is a way of finding out which things often go together, by looking at lots of examples and finding patterns. But it does this in a smart, efficient way, by not wasting time on patterns that are unlikely to happen.
+
+### The Code
+
+#### What is `min_support`?
+
+In the context of Apriori pattern search, which is a popular algorithm used for mining frequent itemsets for boolean association rules, `min_support` is a user-defined parameter that determines the minimum support of an itemset to be considered frequent.
+
+Let's break it down:
+
+An **itemset** is a set of one or more items. For example, in a supermarket scenario, an itemset could be {milk, bread} meaning that milk and bread are bought together.
+
+The **support** of an itemset is the proportion of transactions in the database in which the itemset appears. For example, if out of 100 transactions, milk and bread are bought together 10 times, the support for the itemset {milk, bread} is 10/100 = 0.1.
+
+The **min_support** is the minimum threshold that we set for the support. If an itemset's support is less than min_support, then it's not considered a frequent itemset and is discarded from further analysis.
+
+So, in simple terms, `min_support` is a way to tell the Apriori algorithm to only pay attention to itemsets that occur together relatively frequently in the dataset. It helps to filter out less common itemsets and focus on the more prevalent patterns.
