@@ -2,8 +2,8 @@ Simple explanations from Github Copilot Chat.
 
 - [Supervised vs. Unsupervised Learning](#supervised-vs-unsupervised-learning)
 - [More Examples](#more-examples)
-  - [Supervised Learning](#supervised-learning)
-  - [Unsupervised Learning](#unsupervised-learning)
+  - [Supervised Learning :evergreen\_tree: :house: :car:](#supervised-learning-evergreen_tree-house-car)
+  - [Unsupervised Learning :closed\_book: :green\_book: :blue\_book: :orange\_book:](#unsupervised-learning-closed_book-green_book-blue_book-orange_book)
 
 ### Supervised vs. Unsupervised Learning
 
@@ -17,7 +17,7 @@ So, in simple terms, **supervised learning** is when the computer is taught with
 
 ### More Examples
 
-#### Supervised Learning
+#### Supervised Learning :evergreen_tree: :house: :car:
 
 Imagine you're learning to color. You have a coloring book with outlines of different objects - trees, houses, cars, and so on.
 
@@ -25,7 +25,7 @@ Imagine you're learning to color. You have a coloring book with outlines of diff
 
 In the same way, in **supervised learning**, a computer program is learning to make predictions from data. But it's not doing it alone - it has a 'teacher' (the data scientist) who provides it with the correct answers for some examples. The program uses these examples to learn and make accurate predictions for new data.
 
-#### Unsupervised Learning
+#### Unsupervised Learning :closed_book: :green_book: :blue_book: :orange_book:
 
 Imagine you have a big box of Lego blocks of different shapes, sizes, and colors. No one tells you what to do with them. So, you start sorting them out yourself. Maybe you group them by color, or by size, or by shape. You're not sure if you're doing it "right" because no one is there to correct you, but you're learning to find patterns and make sense of the blocks on your own.
 
