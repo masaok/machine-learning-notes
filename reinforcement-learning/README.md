@@ -1,4 +1,4 @@
-![image](https://github.com/masaok/machine-learning-examples/assets/1320083/962fc0e4-413c-49cc-b966-fc1224b5f5e2)
+<img src="https://github.com/masaok/machine-learning-examples/assets/1320083/962fc0e4-413c-49cc-b966-fc1224b5f5e2"  width="70%" height="70%">
 
 - [What is reinforcement learning?](#what-is-reinforcement-learning)
 - [Which algorithm is best for a Pacman agent?](#which-algorithm-is-best-for-a-pacman-agent)
