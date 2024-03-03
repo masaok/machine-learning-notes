@@ -1,7 +1,7 @@
 DBSCAN Clustering
 - [DBSCAN Clustering Simple Explanation](#dbscan-clustering-simple-explanation)
   - [What is ``min_samples`` for DBSCAN?](#what-is-min_samples-for-dbscan)
-  - [](#)
+  - [How to find the optimal numbers for `eps` and `min_samples`?](#how-to-find-the-optimal-numbers-for-eps-and-min_samples)
   - [Clustering labels are always all zeroes.](#clustering-labels-are-always-all-zeroes)
 
 ### DBSCAN Clustering Simple Explanation
@@ -24,7 +24,7 @@ For example, if ``min_samples`` is set to 5, that means you need at least 5 toys
 
 So, ``min_samples`` helps control the density of the clusters. A higher value means you need more data points close together to form a cluster, which can result in fewer, denser clusters and more noise. A lower value means you need fewer data points to form a cluster, which can result in more, less dense clusters.
 
-####
+#### How to find the optimal numbers for `eps` and `min_samples`?
 
 Finding the optimal values for `eps` and ``min_samples`` in DBSCAN is more of an art than a science, as the best values can vary greatly depending on your dataset and what you're trying to achieve. However, there are a few techniques you can use to help find good values:
 
