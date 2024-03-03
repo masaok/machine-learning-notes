@@ -9,9 +9,9 @@ Simple explanations from Github Copilot Chat.
 
 Let's say you're learning to sort your toys.
 
-In **supervised learning**, your mom or dad is there to guide you. They show you which toys are cars, which are dolls, and which are blocks. You learn by their guidance. If you make a mistake, they correct you. Over time, you learn to sort your toys correctly because you've been taught the right categories.
+In **supervised learning**, your mom or dad is there to guide you. They show you which toys are cars, which are dolls, and which are blocks. You learn by their guidance. If you make a mistake, they correct you. Over time, you learn to sort your toys correctly because you've been taught the right categories. [:computer:](supervised)
 
-**Unsupervised learning** is like if you were left to sort your toys on your own. No one tells you what the categories are. You might decide to sort them by color, by size, or by how much you like them. You're not sure if you're doing it "right" because no one is there to correct you, but you're learning to find patterns and make sense of your toys on your own.
+**Unsupervised learning** is like if you were left to sort your toys on your own. No one tells you what the categories are. You might decide to sort them by color, by size, or by how much you like them. You're not sure if you're doing it "right" because no one is there to correct you, but you're learning to find patterns and make sense of your toys on your own. [:computer:](unsupervised)
 
 So, in simple terms, **supervised learning** is when the computer is taught with correct answers (like your parents teaching you how to sort toys), and **unsupervised learning** is when the computer has to figure out the patterns on its own (like you sorting toys without any guidance).
 
