@@ -26,4 +26,6 @@ poetry env info
 
 Roadmap of Machine Learning:
 
-https://vas3k.com/blog/machine_learning/index.html#the-map-of-the-machine-l
+![image](https://github.com/masaok/machine-learning-examples/assets/1320083/ab4e42ea-1846-43fa-a137-c2b17ca50948)
+
+Credit: https://vas3k.com/blog/machine_learning/index.html
