@@ -39,9 +39,9 @@ Source: https://vas3k.com/blog/machine_learning/index.html#the-map-of-the-machin
 
 Let's use the example of learning to ride a bike:
 
-**Classical Machine Learning (like Supervised Learning)**: This is like when your mom or dad teaches you how to ride a bike. They tell you what to do: "Put your feet on the pedals, hold the handlebars, push off, and start pedaling." They might even hold the bike steady for you at first. You're learning from their instructions and the examples they give you. In programming, this is like giving the computer a bunch of examples (data) with the right answers (labels), and it learns to predict the right answer for new examples.  [:robot:](/classical-learning)
+**Classical Machine Learning (like Supervised Learning)**: This is like when your mom or dad teaches you how to ride a bike. They tell you what to do: "Put your feet on the pedals, hold the handlebars, push off, and start pedaling." They might even hold the bike steady for you at first. You're learning from their instructions and the examples they give you. In programming, this is like giving the computer a bunch of examples (data) with the right answers (labels), and it learns to predict the right answer for new examples.  [:computer:](/classical-learning)
 
-**Reinforcement Learning**: This is like learning to ride a bike all by yourself. You don't know how to do it at first, so you try different things. Maybe you push off too hard and fall over, or you don't pedal fast enough and the bike doesn't move. But each time you try, you learn a little more about what works and what doesn't. Eventually, you figure out how to balance, pedal, and steer all at the same time. In programming, this is like letting the computer try different solutions to a problem. It gets "rewards" or "penalties" based on how well it does, and it uses this feedback to improve over time.  [:robot:](/reinforcement-learning)
+**Reinforcement Learning**: This is like learning to ride a bike all by yourself. You don't know how to do it at first, so you try different things. Maybe you push off too hard and fall over, or you don't pedal fast enough and the bike doesn't move. But each time you try, you learn a little more about what works and what doesn't. Eventually, you figure out how to balance, pedal, and steer all at the same time. In programming, this is like letting the computer try different solutions to a problem. It gets "rewards" or "penalties" based on how well it does, and it uses this feedback to improve over time.  [:computer:](/reinforcement-learning)
 
 ### Ensemble Methods :family:
 
@@ -49,9 +49,9 @@ Let's use the example of learning to ride a bike:
 
 Now, instead of just taking one friend's answer, you decide to take all their answers and combine them. There are a few ways you could do this.
 
-1. You could just take the most common answer (this is like Voting).
-1. You could ask each friend how confident they are in their answer, and give more weight to the answers from friends who are more confident (this is like Weighted Voting).
-1. You could even ask a few friends first, and then based on their answers, decide which other friends to ask next (this is like Boosting).
+1. You could just take the most common answer (this is like **Voting**).
+1. You could ask each friend how confident they are in their answer, and give more weight to the answers from friends who are more confident (this is like **Weighted Voting**).
+1. You could even ask a few friends first, and then based on their answers, decide which other friends to ask next (this is like **Boosting**).
 
 By combining all your friends' answers, you're likely to get a better result than if you just asked one friend. That's what ensemble methods do in machine learning - they combine the predictions from multiple models to get a better prediction.
 
