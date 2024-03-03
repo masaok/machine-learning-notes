@@ -34,6 +34,7 @@ sentences = [
 # Load the tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained("sentence-transformers/all-mpnet-base-v2")
 model = AutoModel.from_pretrained("sentence-transformers/all-mpnet-base-v2")
+
 # Vectorize the sentences
 embeddings = []
 for sentence in sentences:

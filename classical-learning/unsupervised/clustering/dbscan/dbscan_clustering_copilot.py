@@ -10,10 +10,26 @@ tokenizer = AutoTokenizer.from_pretrained("distilbert-base-uncased")
 model = AutoModel.from_pretrained("distilbert-base-uncased")
 
 # List of sentences to cluster
+# sentences = [
+#     "This is a sample sentence.",
+#     "This is another sample sentence.",
+#     "Yet another sample sentence.",
+# ]
+
 sentences = [
-    "This is a sample sentence.",
-    "This is another sample sentence.",
-    "Yet another sample sentence.",
+    "potato",
+    "tomato",
+    "hamburger",
+    "french fries",
+    "pizza",
+    "spaghetti",
+    "pasta",
+    "beef",
+    "chicken",
+    "pork",
+    "fish",
+    "salad",
+    "lettuce",
 ]
 
 # Generate embeddings for each sentence
