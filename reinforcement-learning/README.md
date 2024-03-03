@@ -1,3 +1,5 @@
+![image](https://github.com/masaok/machine-learning-examples/assets/1320083/962fc0e4-413c-49cc-b966-fc1224b5f5e2)
+
 - [What is reinforcement learning?](#what-is-reinforcement-learning)
 
 ### What is reinforcement learning?
