@@ -1,5 +1,3 @@
-Simple explanations from Github Copilot Chat.
-
 - [Supervised vs. Unsupervised Learning](#supervised-vs-unsupervised-learning)
 - [More Examples](#more-examples)
   - [Supervised Learning :evergreen\_tree: :house: :car:](#supervised-learning-evergreen_tree-house-car)
