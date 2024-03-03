@@ -1,3 +1,5 @@
+<img src="https://github.com/masaok/machine-learning-examples/assets/1320083/5198bfef-6bc3-4880-befe-f39a72a054ec"  width="20%" height="20%">
+
 - [Supervised vs. Unsupervised Learning](#supervised-vs-unsupervised-learning)
 - [More Examples](#more-examples)
   - [Supervised Learning :evergreen\_tree: :house: :car:](#supervised-learning-evergreen_tree-house-car)
