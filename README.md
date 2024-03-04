@@ -1,4 +1,4 @@
-Machine Learning examples
+Machine Learning explanations and examples organized by [Vasily Zubarev's](https://vas3k.com/) ML roadmap.
 
 - [Quickstart](#quickstart)
   - [VSCode Notes](#vscode-notes)
