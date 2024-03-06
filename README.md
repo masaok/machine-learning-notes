@@ -7,6 +7,8 @@ Machine Learning explanations and examples organized by [Vasily Zubarev's](https
   - [Ensemble Methods :family:](#ensemble-methods-family)
   - [Neural Nets :dog:](#neural-nets-dog)
     - [Neural Nets vs. Deep Learning :banana: :apple:](#neural-nets-vs-deep-learning-banana-apple)
+- [Differences between AI and ML](#differences-between-ai-and-ml)
+- [References](#references)
 - [Credit](#credit)
 
 ## Quickstart
@@ -75,8 +77,43 @@ A **neural network** is like your brain when it's just starting to learn. At fir
 
 So, the main difference is that **neural networks** are simpler and can learn to recognize simple patterns, while deep learning uses more complex networks (deep neural networks) that can learn to recognize more complex patterns.
 
-## Credit
 
-All explanations written by [Github Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat).
+## Differences between AI and ML
+
+Artificial intelligence (AI) and machine learning (ML) are two closely related fields, but they are not the same thing. Here's a breakdown of the key differences:
+
+**AI (Artificial Intelligence)**
+
+* **Broader concept:** AI refers to the **entire field of creating intelligent machines** that can mimic human cognitive abilities like learning, problem-solving, and decision-making.
+* **Goals:** The overall goal of AI is to **replicate or even surpass human intelligence** in various aspects.
+* **Methods:** AI can employ various techniques to achieve its goals, including **machine learning, rule-based systems, logic programming, and natural language processing**.
+* **Examples:** 
+    * Self-driving cars
+    * Virtual assistants (like Siri or Alexa)
+    * Chess-playing computers
+    * Medical diagnosis systems
+
+**ML (Machine Learning)**
+
+* **Subset of AI:** Machine learning is a **specific technique** used within the broader field of AI.
+* **Goals:** The goal of ML is to **enable machines to learn and improve their performance** on a specific task **without being explicitly programmed**.
+* **Methods:** ML algorithms **learn from data** to identify patterns and make predictions. 
+* **Examples:**
+    * Spam filters in email
+    * Recommendation systems on online platforms
+    * Facial recognition software
+    * Stock market prediction models
+
+**Analogy:** 
+
+Think of AI as a **large toolbox** containing various tools for building intelligent machines. Machine learning is one of the **specialized tools** within that toolbox. While most AI systems today use machine learning as a core component, not all AI systems rely solely on it.
+
+Source: https://gemini.google.com
+
+## References
 
 List of [GitHub Markdown emojis](https://gist.github.com/rxaviers/7360908j).
+
+## Credit
+
+Most explanations written by [Github Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat) unless otherwise specified.
