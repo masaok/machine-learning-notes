@@ -9,7 +9,6 @@ Machine Learning explanations and examples organized by [Vasily Zubarev's](https
     - [Neural Nets vs. Deep Learning :banana: :apple:](#neural-nets-vs-deep-learning-banana-apple)
 - [Differences between AI and ML](#differences-between-ai-and-ml)
 - [References](#references)
-- [Credit](#credit)
 
 ## Quickstart
 
@@ -41,9 +40,9 @@ Source: https://vas3k.com/blog/machine_learning/index.html#the-map-of-the-machin
 
 Let's use the example of learning to ride a bike:
 
-**Classical Machine Learning (like Supervised Learning)**: This is like when your mom or dad teaches you how to ride a bike. They tell you what to do: "Put your feet on the pedals, hold the handlebars, push off, and start pedaling." They might even hold the bike steady for you at first. You're learning from their instructions and the examples they give you. In programming, this is like giving the computer a bunch of examples (data) with the right answers (labels), and it learns to predict the right answer for new examples.  [:computer:](/classical-learning)
+**Classical Machine Learning (like Supervised Learning)**: This is like when your mom or dad teaches you how to ride a bike. They tell you what to do: "Put your feet on the pedals, hold the handlebars, push off, and start pedaling." They might even hold the bike steady for you at first. You're learning from their instructions and the examples they give you. In programming, this is like giving the computer a bunch of examples (data) with the right answers (labels), and it learns to predict the right answer for new examples. [:computer:](/classical-learning)
 
-**Reinforcement Learning**: This is like learning to ride a bike all by yourself. You don't know how to do it at first, so you try different things. Maybe you push off too hard and fall over, or you don't pedal fast enough and the bike doesn't move. But each time you try, you learn a little more about what works and what doesn't. Eventually, you figure out how to balance, pedal, and steer all at the same time. In programming, this is like letting the computer try different solutions to a problem. It gets "rewards" or "penalties" based on how well it does, and it uses this feedback to improve over time.  [:computer:](/reinforcement-learning)
+**Reinforcement Learning**: This is like learning to ride a bike all by yourself. You don't know how to do it at first, so you try different things. Maybe you push off too hard and fall over, or you don't pedal fast enough and the bike doesn't move. But each time you try, you learn a little more about what works and what doesn't. Eventually, you figure out how to balance, pedal, and steer all at the same time. In programming, this is like letting the computer try different solutions to a problem. It gets "rewards" or "penalties" based on how well it does, and it uses this feedback to improve over time. [:computer:](/reinforcement-learning)
 
 ### Ensemble Methods :family:
 
@@ -77,34 +76,33 @@ A **neural network** is like your brain when it's just starting to learn. At fir
 
 So, the main difference is that **neural networks** are simpler and can learn to recognize simple patterns, while deep learning uses more complex networks (deep neural networks) that can learn to recognize more complex patterns.
 
-
 ## Differences between AI and ML
 
 Artificial intelligence (AI) and machine learning (ML) are two closely related fields, but they are not the same thing. Here's a breakdown of the key differences:
 
 **AI (Artificial Intelligence)**
 
-* **Broader concept:** AI refers to the **entire field of creating intelligent machines** that can mimic human cognitive abilities like learning, problem-solving, and decision-making.
-* **Goals:** The overall goal of AI is to **replicate or even surpass human intelligence** in various aspects.
-* **Methods:** AI can employ various techniques to achieve its goals, including **machine learning, rule-based systems, logic programming, and natural language processing**.
-* **Examples:** 
-    * Self-driving cars
-    * Virtual assistants (like Siri or Alexa)
-    * Chess-playing computers
-    * Medical diagnosis systems
+- **Broader concept:** AI refers to the **entire field of creating intelligent machines** that can mimic human cognitive abilities like learning, problem-solving, and decision-making.
+- **Goals:** The overall goal of AI is to **replicate or even surpass human intelligence** in various aspects.
+- **Methods:** AI can employ various techniques to achieve its goals, including **machine learning, rule-based systems, logic programming, and natural language processing**.
+- **Examples:**
+  - Self-driving cars
+  - Virtual assistants (like Siri or Alexa)
+  - Chess-playing computers
+  - Medical diagnosis systems
 
 **ML (Machine Learning)**
 
-* **Subset of AI:** Machine learning is a **specific technique** used within the broader field of AI.
-* **Goals:** The goal of ML is to **enable machines to learn and improve their performance** on a specific task **without being explicitly programmed**.
-* **Methods:** ML algorithms **learn from data** to identify patterns and make predictions. 
-* **Examples:**
-    * Spam filters in email
-    * Recommendation systems on online platforms
-    * Facial recognition software
-    * Stock market prediction models
+- **Subset of AI:** Machine learning is a **specific technique** used within the broader field of AI.
+- **Goals:** The goal of ML is to **enable machines to learn and improve their performance** on a specific task **without being explicitly programmed**.
+- **Methods:** ML algorithms **learn from data** to identify patterns and make predictions.
+- **Examples:**
+  - Spam filters in email
+  - Recommendation systems on online platforms
+  - Facial recognition software
+  - Stock market prediction models
 
-**Analogy:** 
+**Analogy:**
 
 Think of AI as a **large toolbox** containing various tools for building intelligent machines. Machine learning is one of the **specialized tools** within that toolbox. While most AI systems today use machine learning as a core component, not all AI systems rely solely on it.
 
