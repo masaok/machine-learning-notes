@@ -108,12 +108,6 @@ Artificial intelligence (AI) and machine learning (ML) are two closely related f
 
 Think of AI as a **large toolbox** containing various tools for building intelligent machines. Machine learning is one of the **specialized tools** within that toolbox. While most AI systems today use machine learning as a core component, not all AI systems rely solely on it.
 
-Source: https://gemini.google.com
-
 ## References
 
 List of [GitHub Markdown emojis](https://gist.github.com/rxaviers/7360908j).
-
-## Credit
-
-Most explanations written by [Github Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat) unless otherwise specified.
